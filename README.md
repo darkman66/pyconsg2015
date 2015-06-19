@@ -20,4 +20,4 @@ https://github.com/darkman66/postgresql_and_python
 
 copy of slides
 
-http://www.slideshare.net/DJTechHub/business-logic-with-postgresql-and-python
+http://www.slideshare.net/DJTechHub/business-logic-with-postgre-sql-and-python
